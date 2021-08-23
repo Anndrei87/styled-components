@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="https://i.imgur.com/bzjGW4k.gif?w="350" alt="Profile"
+ </p>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
